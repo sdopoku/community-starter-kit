@@ -1,10 +1,11 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+This app allows users to automatically perform community tasks.
 
 ## What it does
 
-FEATURES PLACEHOLDER
++ Automatically runs defined tasks for users.
++ Welcomes users to a new repository.
 
 ## Getting started
 
